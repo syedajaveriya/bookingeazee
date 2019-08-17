@@ -1,0 +1,7 @@
+{
+  "name": "bookingEazee",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
